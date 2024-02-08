@@ -24,6 +24,12 @@
     color: palevioletred;
 }
 
+.lomov:hover, .natalyastepanova:hover {
+    text-shadow: 2px 2px 5px purple;
+    border: 2px solid chartreuse;
+    color: transparent;
+}
+
 .cast-table {
     width: 100%;
     border-collapse: collapse;
