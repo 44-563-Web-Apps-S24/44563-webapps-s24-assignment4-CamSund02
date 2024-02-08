@@ -23,3 +23,23 @@
 .natalyastepanova {
     color: palevioletred;
 }
+
+.cast-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.cast-table th, .cast-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.cast-table th {
+    background-color: #f2f2f2;
+}
+
+.cast-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
