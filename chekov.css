@@ -1,0 +1,25 @@
+.speech {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.direction {
+    font-family: 'AnotherFont', sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: lightgrey;
+}
+
+.direction:hover {
+    background-color: darkred;
+    color: white;
+}
+
+.lomov {
+    color: blue;
+}
+
+.NATALYASTEPANOVNA {
+    color: palevioletred;
+}
